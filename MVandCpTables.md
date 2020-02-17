@@ -1,6 +1,7 @@
 ## Table 1. The move (```mv```) command
 
-```mv``` From (file or directory To (file or directory) (with no extra options)
+```mv``` From (file or directory To (file or directory)) (with no extra options)
+
 
 |    _         | To Existing file | To New file  | To Existing directory | To New directory |
 
