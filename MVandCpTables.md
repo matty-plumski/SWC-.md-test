@@ -1,4 +1,4 @@
- ## Table 1. The move (```mv```) command
+## Table 1. The move (```mv```) command
 
 ```mv``` From (file or directory To (file or directory) (with no extra options)
 
